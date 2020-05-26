@@ -22,6 +22,7 @@ public class MultiplicationTable {
 	for(int i=from;i<=to;i++)
 	{
 		System.out.printf("%d * %d = %d", table , i , table*i).println();
+		System.out.println("This print line is for practice of GitHub not related to our Multiplication Table code");
 	}
 	}
 }
