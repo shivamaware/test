@@ -23,6 +23,7 @@ public class MultiplicationTable {
 	{
 		System.out.printf("%d * %d = %d", table , i , table*i).println();
 		System.out.println("This print line is for practice of GitHub not related to our Multiplication Table code");
+		System.out.println("This print line is for practice of GitHub not related to our Multiplication Table code");
 	}
 	}
 }
